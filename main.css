@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+html {
+  background-color: #fefefe;
+}
+body {
+  font-family: "Open Sans", Helvetica, sans-serif;
+  color: #454545;
+  font-size: 16px;
+  margin: 1em auto;
+  max-width: 800px;
+  padding: 1em;
+  line-height: 1.4;
+  text-align: justify;
+}
+ul {
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+}
+li {
+  margin-bottom: 10px;
+}
+a {
+  color: #07a;
+}
+a:visited {
+  color: #941352;
+}
+small {
+  font-size: 0.4em;
+}
+p.st {
+  margin-top: -1em;
+}
+ul li img {
+  height: 1em;
+}
+blockquote {
+  color: #456;
+  margin-left: 0;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+blockquote span {
+  float: left;
+  margin-left: 1rem;
+  padding-top: 1rem;
+}
+blockquote author {
+  display: block;
+  clear: both;
+  font-size: 0.6em;
+  margin-left: 2.4rem;
+  font-style: oblique;
+}
+blockquote author:before {
+  content: "- ";
+  margin-right: 1em;
+}
+blockquote:before {
+  font-family: Times New Roman, Times, Arial;
+  color: #666;
+  content: open-quote;
+  font-size: 2.2em;
+  font-weight: 600;
+  float: left;
+  margin-top: 0;
+  margin-right: 0.2rem;
+  width: 1.2rem;
+}
+blockquote:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+@media screen and (max-width: 500px) {
+  body {
+    text-align: left;
+  }
+  ul {
+    columns: 1;
+    -webkit-columns: 1;
+    -moz-columns: 1;
+  }
+  div.fancyPositioning div.picture-left,
+  div.fancyPositioning div.tleft {
+    float: none;
+    width: inherit;
+  }
+  blockquote span {
+    width: 80%;
+  }
+  blockquote author {
+    padding-top: 1em;
+    width: 80%;
+    margin-left: 15%;
+  }
+  blockquote author:before {
+    content: "";
+    margin-right: inherit;
+  }
+}
+
+.profile{
+  vertical-align: bottom;
+  border-radius: 50%;
+  margin-top: 0.5em;
+  margin-left: 0.5em;
+  font-size: 48px;
+  float: right;
+}
