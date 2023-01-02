@@ -5,6 +5,8 @@
 # random image srcs
 # https://source.unsplash.com/random/<WIDTH>x<HEIGHT>[/?search_term[,...]]
 
+# Uses https://unsplash.com/ thanks to https://awik.io/generate-random-images-unsplash-without-using-api/
+
 layout: home
 sub_title: "My (currently) Bare Bones Blog"
 introduction: >- # this means to ignore newlines until "baseurl:"
