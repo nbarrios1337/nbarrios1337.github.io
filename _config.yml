@@ -43,6 +43,11 @@ plugins:
   - jekyll-feed
 
 # custom theme settings
+data:
+  theme:
+    # Too much to override entirety of the theme,
+    # so just partial overwrite here in the _config.yml
+    skin: steel
 
 # Front Matter Defaults
 defaults:
