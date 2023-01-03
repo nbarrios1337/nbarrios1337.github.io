@@ -11,6 +11,8 @@ Though I'm fixing that!
 
 I'm a Software Engineer over at [Bolt Graphics](https://bolt.graphics/), where I take part in developing our novel, hardware-accelerated raytracing platform.
 
+I'm a [SUNY University at Buffalo](https://buffalo.edu/) graduate, with a [combined BS/MS Computer Science degree](https://engineering.buffalo.edu/computer-science-engineering/undergraduate/degrees-and-programs/bs-ms-in-computer-science-and-engineering.html) specializing in Software and Distributed Systems.
+
 ## Credit
 
 This site's design and theme comes from Michael Rose's wonderful [Basically Basic Jekyll Theme](https://github.com/mmistakes/jekyll-theme-basically-basic), with the site itself hosted on GitHub Pages.
