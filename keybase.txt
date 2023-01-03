@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/nbarrios
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nbarrios1337.github.io
+  * I am nbarrios (https://keybase.io/nbarrios) on keybase.
+  * I have a public key ASA7COoCwaS39XRZ52V5-ay-PxrPOgnoVj0vvHohwxYOEgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202e7356251c1e79f650136da96abaa38df12199f5df6567fdadb12d7b0ae76f480a",
+      "host": "keybase.io",
+      "kid": "01203b08ea02c1a4b7f57459e76579f9acbe3f1acf3a09e8563d2fbc7a21c3160e120a",
+      "uid": "bf6decdb2308820f22fa493b7192ab19",
+      "username": "nbarrios"
+    },
+    "merkle_root": {
+      "ctime": 1564073631,
+      "hash": "e128bd302e1beb0b53a45cdb7ac2b3c34c0c8cf9d80e6a8704d70a80e3e9e2d8cd0eb1cf7d363f4d6982e665ed0e71e8604c4aae9956171798789e3ccc88777b",
+      "hash_meta": "9e8b92b4598036aa9f944ecea82f6a8ba5f3ed9629679672a11819acf5f718ad",
+      "seqno": 5852327
+    },
+    "service": {
+      "entropy": "fI5d54qgCTKJzXS6ICrf3DmX",
+      "hostname": "nbarrios1337.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.2.0"
+  },
+  "ctime": 1564078355,
+  "expire_in": 504576000,
+  "prev": "c5021fb849b89db3e009387d5d3676cee587b9e6d9c4f891642d3db9188f2dc9",
+  "seqno": 28,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgOwjqAsGkt/V0Wedlefmsvj8azzoJ6FY9L7x6IcMWDhIKp3BheWxvYWTESpcCHMQgxQIfuEm4nbPgCTh9XTZ2zuWHuebZxPiRZC09uRiPLcnEIKOjMPbO9+r0Eg3GUTSq/513DxNK9bWklnQJ/i8N2NYbAgHCo3NpZ8RAMbJUqsORhnR3xjTQa0hViLO71mvC7HVAyiCLMgjO+QagcxwkcP0RyTIDMZeyFfEyP7Tr2yfvn98SGlMQX99VCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPtPL8q61E3sEBK4wx3Zi/+aiCmO5A+cvglb7qMan1aVo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nbarrios
+
+==================================================================
