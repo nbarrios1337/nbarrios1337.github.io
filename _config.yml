@@ -33,8 +33,8 @@ author:
   picture: /assets/images/professional-300x300.jpg
 twitter_username: nbarrios1337
 github_username:  nbarrios1337
-# search: true
-# search_full_content: true
+search: true
+search_full_content: true
 
 
 # Build settings
