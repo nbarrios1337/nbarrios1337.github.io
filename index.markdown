@@ -8,7 +8,7 @@
 # Uses https://unsplash.com/ thanks to https://awik.io/generate-random-images-unsplash-without-using-api/
 
 layout: home
-sub_title: "My (currently) Bare Bones Blog"
+sub_title: "My (currently bare bones) Personal Blog"
 introduction: >- # this means to ignore newlines until "baseurl:"
   Welcome to my personal website. I'm Nicolas Barrios, a Software Engineer
   and creativity enthusiast. I'll share my thoughts and ramblings here
