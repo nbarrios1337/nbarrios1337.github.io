@@ -41,6 +41,13 @@ search_full_content: true
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
+# SEO settings
+tagline: Nicolas Barrios's Personal Site
+twitter:
+  username: nbarrios1337
+  card: summary
 
 collections:
   projects:
