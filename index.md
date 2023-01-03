@@ -13,4 +13,5 @@ introduction: >- # this means to ignore newlines until "baseurl:"
   Welcome to my personal website. I'm Nicolas Barrios, a Software Engineer
   and creativity enthusiast. I'll share my thoughts and ramblings here
   as they come up. They'll be about software, media, and who knows what else!
+image: /assets/images/homepage-4000x1500.png
 ---
