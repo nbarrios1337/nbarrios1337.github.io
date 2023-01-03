@@ -42,6 +42,10 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 plugins:
   - jekyll-feed
 
+collections:
+  projects:
+    output: true
+
 # custom theme settings
 data:
   theme:
@@ -60,6 +64,15 @@ defaults:
       read_time: true
       # remove categories from permalinks
       permalink: /:year/:month/:day/:title/
+  # _projects
+  - scope:
+      path: "_projects"
+      type: projects
+    values:
+      # Set any file in the _projects directory
+      # to have the page layout by default
+      layout: page
+      # read_time: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
