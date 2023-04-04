@@ -8,10 +8,9 @@
 # Uses https://unsplash.com/ thanks to https://awik.io/generate-random-images-unsplash-without-using-api/
 
 layout: home
-sub_title: "My (currently bare bones) Personal Blog"
-introduction: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my personal website. I'm Nicolas Barrios, a Software Engineer
-  and creativity enthusiast. I'll share my thoughts and ramblings here
-  as they come up. They'll be about software, media, and who knows what else!
-image: /assets/images/homepage-4000x1500.png
 ---
+
+Welcome to my personal website. I'm Nicolas Barrios, a Software Engineer and open source enthusiast.
+I'll share my thoughts and ramblings here as they come up.
+
+[Learn more about me](about.md)
