@@ -22,9 +22,7 @@ lang: en-US
 title: Nicolas Barrios
 email: nbarrios1337@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my personal website. I'm Nicolas Barrios, a Software Engineer
-  and creativity enthusiast. I'll share my thoughts and ramblings here
-  as they come up.
+  Software Engineer and open source enthusiast.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 author:
