@@ -30,15 +30,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 author:
   name: Nicolas Barrios
   twitter: nbarrios1337
+  email: nbarrios1337@gmail.com
   picture: /assets/images/professional-300x300.jpg
-twitter_username: nbarrios1337
-github_username:  nbarrios1337
-search: true
-search_full_content: true
-
 
 # Build settings
-remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -52,13 +48,21 @@ twitter:
 collections:
   projects:
     output: true
+    sort_by: date
 
-# custom theme settings
-data:
-  theme:
-    # Too much to override entirety of the theme,
-    # so just partial overwrite here in the _config.yml
-    skin: steel
+# Theme settings
+minima:
+  skin: solarized
+  social_links:
+    - platform: github
+      user_url: https://github.com/nbarrios1337/
+    - platform: twitter
+      user_url: https://twitter.com/nbarrios1337
+    - platform: linkedin
+      user_url: https://www.linkedin.com/in/nbarrios1337/
+    - platform: mastodon
+      user_url: https://mastodon.gamedev.place/@chromatic
+
 
 # Front Matter Defaults
 defaults:
