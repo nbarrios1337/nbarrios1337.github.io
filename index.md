@@ -10,7 +10,9 @@
 layout: home
 ---
 
-Welcome to my personal website. I'm Nicolas Barrios, a Software Engineer and open source enthusiast.
+Welcome to my personal website. I am a Software Engineer and open source enthusiast.
 I'll share my thoughts and ramblings here as they come up.
 
 [Learn more about me](about.md)
+
+Nothing much here yet, but stay tuned :)
