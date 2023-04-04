@@ -40,10 +40,18 @@ plugins:
   - jekyll-seo-tag
 
 # SEO settings
-tagline: Nicolas Barrios's Personal Site
+# https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+tagline: Personal Site & Potential Blog
 twitter:
   username: nbarrios1337
   card: summary
+social:
+  name: Nicolas Barrios
+  links:
+    - https://github.com/nbarrios1337/
+    - https://twitter.com/nbarrios1337
+    - https://www.linkedin.com/in/nbarrios1337/
+    - https://mastodon.gamedev.place/@chromatic
 
 collections:
   projects:
