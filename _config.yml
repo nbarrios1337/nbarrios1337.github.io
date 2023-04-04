@@ -22,7 +22,7 @@ lang: en-US
 title: Nicolas Barrios
 email: nbarrios1337@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Software Engineer and open source enthusiast.
+  Software Engineer and Open Source Enthusiast.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 author:
@@ -46,9 +46,9 @@ twitter:
 social:
   name: Nicolas Barrios
   links:
-    - https://github.com/nbarrios1337/
+    - https://github.com/nbarrios1337
     - https://twitter.com/nbarrios1337
-    - https://www.linkedin.com/in/nbarrios1337/
+    - https://linkedin.com/in/nbarrios1337
     - https://mastodon.gamedev.place/@chromatic
 
 collections:
