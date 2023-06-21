@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: /about
 ---
 
 I'm a Software Engineer and Aspiring Open Source Contributor, interested in developer tooling and software optimization. I have 3+ years of experience with modern C++, with plenty of experience implementing build systems and developer tooling.
