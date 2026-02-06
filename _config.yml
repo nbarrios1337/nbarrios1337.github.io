@@ -24,7 +24,7 @@ email: nbarrios1337@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Software Engineer and Open Source Enthusiast.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.nbarrios.dev/" # the base hostname & protocol for your site, e.g. http://example.com
 author:
   name: Nicolas Barrios
   twitter: nbarrios1337
@@ -47,9 +47,7 @@ social:
   name: Nicolas Barrios
   links:
     - https://github.com/nbarrios1337
-    - https://twitter.com/nbarrios1337
     - https://linkedin.com/in/nbarrios1337
-    - https://mastodon.gamedev.place/@chromatic
 
 collections:
   projects:
@@ -62,12 +60,8 @@ minima:
   social_links:
     - platform: github
       user_url: https://github.com/nbarrios1337/
-    - platform: twitter
-      user_url: https://twitter.com/nbarrios1337
     - platform: linkedin
       user_url: https://www.linkedin.com/in/nbarrios1337/
-    - platform: mastodon
-      user_url: https://mastodon.gamedev.place/@chromatic
 
 
 # Front Matter Defaults
