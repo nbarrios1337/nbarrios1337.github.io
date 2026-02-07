@@ -12,6 +12,6 @@ I have also worked as a Software Engineer over at [Bolt Graphics](https://bolt.g
 
 I'm a [SUNY University at Buffalo](https://buffalo.edu/) graduate, with a [combined BS/MS Computer Science degree](https://engineering.buffalo.edu/computer-science-engineering/undergraduate/degrees-and-programs/bs-ms-in-computer-science-and-engineering.html) specializing in High-Performance Computing and Distributed Systems.
 
-[See my resume at this PDF link](/assets/files/nicolas-barrios-resume-v8.pdf).
+[See my resume at this PDF link](/assets/files/nicolas-barrios-resume-v9.pdf).
 
 ![A photo of a tabby cat resting her head on her owner's bed, looking at the camera with an inquisitive gaze](assets/images/cat-header.jpg)
